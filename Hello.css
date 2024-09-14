@@ -5,7 +5,8 @@ h1 {
 p {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    background-color: whitesmoke;
+    background-color: black;
+    color: white;
 }
 
 body {
